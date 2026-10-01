@@ -2,7 +2,7 @@
 # A Lunar Lander for old DOS Laptops/PC - A Work in progress
 | Game Menu | Screenshot |
 | --- | --- |
-| ![DOSBox graphics mode menu](readme_menus.png) | ![Lander running in DOSBox](readme_LLander.png) |
+| ![DOSBox graphics mode menu](readme_menus.png) | ![Lander running in DOSBox](readme_llander.png) |
 
 
 
